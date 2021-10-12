@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Cocktail-Finder/static/css/main.5c529f91.chunk.css",
+    "main.js": "/Cocktail-Finder/static/js/main.80f49475.chunk.js",
+    "main.js.map": "/Cocktail-Finder/static/js/main.80f49475.chunk.js.map",
+    "runtime-main.js": "/Cocktail-Finder/static/js/runtime-main.6a913a4b.js",
+    "runtime-main.js.map": "/Cocktail-Finder/static/js/runtime-main.6a913a4b.js.map",
+    "static/js/2.72303b8e.chunk.js": "/Cocktail-Finder/static/js/2.72303b8e.chunk.js",
+    "static/js/2.72303b8e.chunk.js.map": "/Cocktail-Finder/static/js/2.72303b8e.chunk.js.map",
+    "index.html": "/Cocktail-Finder/index.html",
+    "precache-manifest.caf92ef95d584f9207028bb3f8073daa.js": "/Cocktail-Finder/precache-manifest.caf92ef95d584f9207028bb3f8073daa.js",
+    "service-worker.js": "/Cocktail-Finder/service-worker.js",
+    "static/css/main.5c529f91.chunk.css.map": "/Cocktail-Finder/static/css/main.5c529f91.chunk.css.map",
+    "static/js/2.72303b8e.chunk.js.LICENSE.txt": "/Cocktail-Finder/static/js/2.72303b8e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Cocktail-Finder/static/media/logo.9a3d2645.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a913a4b.js",
+    "static/js/2.72303b8e.chunk.js",
+    "static/css/main.5c529f91.chunk.css",
+    "static/js/main.80f49475.chunk.js"
+  ]
+}
